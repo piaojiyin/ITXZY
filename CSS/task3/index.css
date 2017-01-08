@@ -1,0 +1,179 @@
+/******************全局 start******************/
+html,body,div,span,img{
+    margin: 0;
+    padding: 0;
+}
+button{
+    border: 0;
+    outline: 0;
+    padding: 0;
+    background-color: transparent;
+}
+html{
+    height: 100%;
+    font-size: 10px;
+    background-color: #68cdd5;
+}
+.body{
+
+}
+/******************通用 start******************/
+.fz12{
+    font-size: 1.2rem;
+}
+.fz13{
+    font-size: 1.3rem;
+}
+.fz15{
+    font-size: 1.5rem;
+}
+.fz17{
+    font-size: 1.7rem;
+}
+
+.wu-color-fff{
+    color: #fff;
+}
+
+.text-center{
+    text-align: center;
+}
+/******************通用 end********************/
+
+/******************button start********************/
+.t3-button-1{
+    width: 10px;
+    height: 18px;
+    background-image: url(img/t3-button-1.png);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.t3-button-2{
+    width: 19px;
+    height: 4px;
+    background-image: url(img/t3-button-2.png);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.t3-button-3{
+    width: 27px;
+    height: 27px;
+    background-image: url(img/t3-button-3.png);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+/******************button end********************/
+
+/******************icon start********************/
+.t3-icon-1{
+    width: 90px;
+    height: 35px;
+    background-image: url(img/t3-icon-1.png);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.t3-icon-2{
+    width: 43px;
+    height: 43px;
+    background-image: url(img/t3-icon-2.png);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.t3-icon-3{
+    width: 43px;
+    height: 43px;
+    background-image: url(img/t3-icon-3.png);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+/******************icon end********************/
+
+/******************头部 start******************/
+.header{
+    height: 44px;
+    padding: 0 8px;
+    background-color: #22292c;
+    text-align: center;
+    position: relative;
+}
+.t3-btn-back-wrap{
+    height: 18px;
+    position: absolute;
+    margin: auto 0;
+    top: 0;
+    bottom: 0;
+    left: 8px;
+}
+.t3-btn-back{
+    float: left;
+    margin-right: 6px;
+}
+.t3-btn-back-lab{
+    clear: both;
+    line-height: 18px;
+}
+.t3-title{
+    line-height: 44px;
+}
+.t3-btn-menu{
+    width: 19px;
+    height: 5px;
+    position: absolute;
+    margin: auto 0;
+    top: 0;
+    bottom: 0;
+    right: 8px;
+    
+}
+/******************头部 end********************/
+
+/******************内容 start******************/
+.content{
+    padding: 0 45px;
+}
+.t3-btn-left{
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    top: 54px;
+    left: 15px;
+}
+.t3-logo{
+    width: 90px;
+    height: 35px;
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 102px;
+}
+.t3-desc{
+    line-height: 20px;
+    margin-top: 155px;
+    text-align: justify;
+}
+.t3-desc-bottom{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 95px; 
+}
+.t3-group-wrap{
+    left: 45px;
+}
+.t3-ppteng-wrap{
+    right: 45px;
+}
+.t3-desc-bottom-icon{
+    width: 43px;
+    height: 43px;
+    margin: 0 0 8px 13px;
+}
+/******************内容 end********************/
+/******************全局 end********************/
