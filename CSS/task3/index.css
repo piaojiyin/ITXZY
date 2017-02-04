@@ -12,10 +12,10 @@ button{
 html{
     height: 100%;
     font-size: 10px;
-    background-color: #68cdd5;
 }
-.body{
-
+body{
+    height: 100%;
+    background-color: #68cdd5;
 }
 /******************通用 start******************/
 .fz12{
